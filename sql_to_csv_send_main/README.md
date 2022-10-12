@@ -1,11 +1,13 @@
 ###  一、介绍
-  1)  满足备份 MySQL 表到csv格式 发送到邮箱中
-  2)  自定义SQL语句满足不同需求
-  3)  无需依赖命令实现功能
+1)  满足备份 MySQL 表到csv格式 发送到邮箱中
+2)  自定义SQL语句满足不同需求
+3)  无需依赖命令实现功能
+4)  可关闭邮件发送
 
 ###  二、使用说明
 #### 2.1、下载工具
 * 下载 sql_to_mail 文件与 config 放到同一目录中
+* 下载地址 https://github.com/G-Akiraka/DevOps/tree/main/sql_to_csv_send_main
 
 #### 2.2、配置文件
 * 更具自己使用场景决定
